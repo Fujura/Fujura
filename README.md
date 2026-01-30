@@ -42,9 +42,9 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fujura&layout=compact" alt="Top Languages" width="380" />
+<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fujura&layout=compact" alt="Top Languages" width="320" />
 <img align="right" src="https://leetcard.jacoblin.cool/fujuroa?theme=dark&font=Inter" alt="LeetCode Stats" width="380" />
-<br clear="both" />
+<br clear="both" /><br/>
 <p align="center">
   <img src="https://img.shields.io/github/followers/Fujura?style=for-the-badge&label=Followers&labelColor=20232a&color=61dafb" />
   <img src="https://img.shields.io/github/stars/Fujura?style=for-the-badge&label=Stars&labelColor=20232a&color=61dafb" />
