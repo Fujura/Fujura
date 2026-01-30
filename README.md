@@ -1,14 +1,15 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Fujura.Fujura">
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Im Dzhalil+(Fujuro)....;Nice+to+meet+you!&center=true&size=30">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+There!+👋;Im+Dzhalil+(Fujura)....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
 <h5 align="center">
   <code><a href="https://t.me/fujura" title="Telegram"><img width="22" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" style="filter: brightness(0.7) invert(0.95) sepia(0.03) saturate(3) hue-rotate(185deg);" alt="Telegram logo"> Telegram</a></code>
   <code><a href="https://www.linkedin.com/in/dzhalil-kalimov-41b5bb29b/" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
+  <code><a href="https://leetcode.com/u/fujuroa/" title="LeetCode Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg"  filter: invert(65%) sepia(90%) saturate(500%) hue-rotate(360deg);"> <span style="color: #FFA116; font-weight: bold;">LeetCode</span></a></code>
 </h5>
 
 <br>
@@ -41,15 +42,14 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-  <div align="center">
-  <img  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fujura&layout=compact" alt="Top Languages" />
-</div
-<p align=center>
-  <p align="center">
-    <img src="https://img.shields.io/github/followers/Fujura?style=for-the-badge&label=Followers&labelColor=20232a&color=61dafb" />
-    <img src="https://img.shields.io/github/stars/Fujura?style=for-the-badge&label=Stars&labelColor=20232a&color=61dafb" />
-    <img src="https://img.shields.io/github/commit-activity/m/Fujura/Fujura?style=for-the-badge&label=Commits&labelColor=20232a&color=61dafb" />
-  </p>
+<div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: stretch; gap: 20px;">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fujura&layout=compact" alt="Top Languages" style="height: 208px; width: 320px; min-width: 220px; object-fit: contain;"/>
+  <img src="https://leetcard.jacoblin.cool/fujuroa?theme=dark&font=Inter" alt="LeetCode Stats" style="height: 320px; width: 380px; min-width: 320px; object-fit: contain; margin: -55px 0 0" />
+</div>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Fujura?style=for-the-badge&label=Followers&labelColor=20232a&color=61dafb" />
+  <img src="https://img.shields.io/github/stars/Fujura?style=for-the-badge&label=Stars&labelColor=20232a&color=61dafb" />
+  <img src="https://img.shields.io/github/commit-activity/m/Fujura/Fujura?style=for-the-badge&label=Commits&labelColor=20232a&color=61dafb" />
 </p>
 
 <hr>
