@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Im Dzhalil+(Fujura)....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Im Dzhalil+(Fujuro)....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -24,7 +24,7 @@
 </p>
 
 <hr>
-<span align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</span>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
   <code><img title="JavaScript" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
