@@ -42,15 +42,9 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: stretch; gap: 20px;">
-<div style="maxWidth:320px; maxHeight:280px">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fujura&layout=compact" alt="Top Languages" style="height: 208px; width: 320px; min-width: 220px; object-fit: contain;"/>
-</div>
-  <div style="maxWidth:320px; maxHeight:280px">
-
-  <img src="https://leetcard.jacoblin.cool/fujuroa?theme=dark&font=Inter" alt="LeetCode Stats" style="bject-fit: contain;" />
-    </div>
-</div>
+<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fujura&layout=compact" alt="Top Languages" width="380" />
+<img align="right" src="https://leetcard.jacoblin.cool/fujuroa?theme=dark&font=Inter" alt="LeetCode Stats" width="380" />
+<br clear="both" />
 <p align="center">
   <img src="https://img.shields.io/github/followers/Fujura?style=for-the-badge&label=Followers&labelColor=20232a&color=61dafb" />
   <img src="https://img.shields.io/github/stars/Fujura?style=for-the-badge&label=Stars&labelColor=20232a&color=61dafb" />
