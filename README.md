@@ -50,26 +50,3 @@
   <img src="https://img.shields.io/github/stars/Fujura?style=for-the-badge&label=Stars&labelColor=20232a&color=61dafb" />
   <img src="https://img.shields.io/github/commit-activity/m/Fujura/Fujura?style=for-the-badge&label=Commits&labelColor=20232a&color=61dafb" />
 </p>
-
-<hr>
-
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Fujura/donut-game-test" title="Donut game">
-    <img height="115" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Fujura&repo=donut-game-test&theme=react&border_color=61dafb&border_radius=10" alt="Donut game repo" />
-  </a>
-  <a align="right" href="https://github.com/Fujura/spotter-test" title="Spotter flight search">
-    <img align="right" height="115" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Fujura&repo=spotter-test&theme=react&border_color=61dafb&border_radius=10" alt="Spotter flight search repo" />
-  </a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Fujura/sportfit-test" title="Sportfit landing"><img align="left" height="115" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Fujura&repo=sportfit-test&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Fujura/stakeme-test" title="Stakeme test"><img align="right" height="115" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Fujura&repo=stakeme-test&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-
-<h4 align="center">
-  <a href="https://github.com/Fujura?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
