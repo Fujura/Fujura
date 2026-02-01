@@ -1,10 +1,6 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Fujura.Fujura">
-
-<h1 align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+There!+👋;Im+Dzhalil+(Fujura)....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+There!+👋;I'm+Dzhalil+(Fujura)&center=true&size=28&width=400" alt="Hello there!" />
+</p>
 
 <h5 align="center">
   <code><a href="https://t.me/fujura" title="Telegram"><img width="22" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" style="filter: brightness(0.7) invert(0.95) sepia(0.03) saturate(3) hue-rotate(185deg);" alt="Telegram logo"> Telegram</a></code>
@@ -43,7 +39,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fujura&layout=compact" alt="Top Languages" width="320" />
-<img align="right" src="https://leetcard.jacoblin.cool/fujuroa?theme=dark&font=Inter" alt="LeetCode Stats" width="350" />
+<img align="right" src="https://leetcard.jacoblin.cool/fujuroa?theme=dark&font=Inter" alt="LeetCode Stats" width="350" style="margin: 10px 0 0"/>
 <br clear="both" /><br/>
 <p align="center">
   <img src="https://img.shields.io/github/followers/Fujura?style=for-the-badge&label=Followers&labelColor=20232a&color=61dafb" />
